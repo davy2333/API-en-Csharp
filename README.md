@@ -1,5 +1,5 @@
 # API
-#crear la sigueinte base de datos en sql server 
+#crear la siguiente base de datos en sql server 
 
 CREATE DATABASE empresa;
 
